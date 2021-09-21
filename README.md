@@ -3,6 +3,10 @@
 #### 介绍
 用JavaFx作为GUI的一个刷题系统
 
+已经对Java文件进行了打包，可以进入bin目录下点击quesExer.exe进入系统。
+
+![](doc/readme.PNG)
+
 #### 软件架构
 软件架构说明
 
